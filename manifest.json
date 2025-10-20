@@ -1,0 +1,32 @@
+{
+  "name": "R",
+  "short_name": "R",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "description": "无",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/zfM0NdQw/chan-97.png",
+      "sizes": "125x125",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/zfM0NdQw/chan-97.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/zfM0NdQw/chan-97.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/zfM0NdQw/chan-97.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+
+}
